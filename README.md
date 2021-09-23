@@ -15,13 +15,15 @@ This code was designed with QT designer and Python programming Language.
 
 #### Open IDE
 + -Run your favourite IDE.
++ -import sys
++ -import os
 + -import pyside2.
 + -write the shopping cart code on the IDE
 
 #### Design UI
 + -Run the Qt designer
 + -input the interface/how you'd like the interface to look like
-+ -on the IDE,import the cart Ui
++ -on the code editor initialize Ui buttons
 
 #### Test the code
 + -on your favourite IDE,run the python code on the terminal

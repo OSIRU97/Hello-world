@@ -25,7 +25,7 @@ This code was designed with QT designer and Python programming Language.
 + -input the interface/how you'd like the interface to look like
 + -on the code editor initialize Ui buttons
 + -make clickable event on button
-        btnAdd.clicked.connect(self.updateCart)
+       @ btnAdd.clicked.connect(self.updateCart)
 
 #### Test the code
 + -on your favourite IDE,run the python code on the terminal

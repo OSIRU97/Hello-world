@@ -21,7 +21,7 @@ This code was designed with QT designer and Python programming Language.
 + -write the shopping cart code on the IDE
 
 #### Design UI
-+ -Run the Qt designer
++ -open and setup Qt designer
 + -input the interface/how you'd like the interface to look like
 + -on the code editor initialize Ui buttons
 + -make clickable event on button

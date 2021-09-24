@@ -1,5 +1,5 @@
 ## Online shopping cart
-How to setup and run shopping cart code.
+How to setup and run the above shopping cart code.
 
 ## Introduction
 This code was designed with QT designer and Python programming Language.
